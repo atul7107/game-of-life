@@ -35,7 +35,7 @@
                     <source>1.7</source>
                     <target>1.7</target>
                     <fork>true</fork>
-					<executable>/usr/lib/jvm/jre-1.8.0-openjdk</executable>
+	            <executable>/usr/lib/jvm/jre-1.8.0-openjdk</executable>
                 </configuration>
             </plugin>
             <plugin>
